@@ -3,7 +3,7 @@ Desafío BBDD
 
 2) Realizar las siguientes consultas:
 
-2.1 obtener los apellidos de los empleados.
+2.1 obtener los apellidos de los empleados;
 SELECT apellido FROM empleado;
 
 2.2 obtener los apellidos de los empleados sin repeticiones.
