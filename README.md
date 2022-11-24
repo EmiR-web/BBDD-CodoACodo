@@ -29,7 +29,7 @@ Desafío BBDD
 
 2.7 Obtener los datos de los empleados cuyo apellido comience con P.
 
-| SELECT * FROM empleado AS e WHERE e.apellido LIKE 'P%'; |
+| SELECT * FROM empleado AS e WHERE e.apellidos LIKE 'P%'; |
 
 2.8 Obtener el presupuesto total de todos los departamentos.
 
